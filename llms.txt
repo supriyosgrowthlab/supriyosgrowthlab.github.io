@@ -1,0 +1,22 @@
+# Supriyo's Growth Lab
+
+> Practical guides on business automation, the best tools for creators and startups, and proven growth and SEO strategies.
+
+## Automation
+
+Workflows, no-code tools and systems that save hours every week.
+
+- [Stop Copy-Pasting GSC and GA4 Data: Automate Your SEO Reports in One Google Sheet](https://supriyosgrowthlab.github.io/automate-seo-reports-gsc-ga4/): Stop exporting Search Console and GA4 data by hand. This free Google Sheets tool builds your SEO report automatically, with insights, comparisons and scheduled emails.
+
+## Tools
+
+Honest reviews, comparisons and the best tools for every job.
+
+- [Migrating a Website? Don't Lose Pages: Extract Every Sitemap URL in Seconds](https://supriyosgrowthlab.github.io/extract-urls-from-sitemap/): Before you migrate, redesign or audit a website, save every page URL. This free Google Sheets tool extracts every URL from any sitemap or sitemap index in seconds.
+- [Thousands of Pages, No Idea Which Are Indexed? Check Them All at Once, Free](https://supriyosgrowthlab.github.io/bulk-url-inspection-google-indexing/): Stop inspecting URLs one by one in Search Console. This free Google Sheets tool checks the index status, last crawl, canonicals and rich results of up to 2,000 URLs a day.
+- [Can't Afford Semrush? This Free SEO Audit Tool Gives In-Depth Results in 10 Minutes](https://supriyosgrowthlab.github.io/free-seo-audit-tool-google-sheets/): No budget for Semrush or Screaming Frog? This free SEO audit tool crawls up to 5,550 pages inside Google Sheets and gives you a health score, broken links and quick wins in about 10 minutes.
+
+## Optional
+
+- [All articles](https://supriyosgrowthlab.github.io/blog/)
+- [RSS feed](https://supriyosgrowthlab.github.io/rss.xml)
